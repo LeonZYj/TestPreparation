@@ -1,0 +1,12 @@
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/bin/Debug/net8.0/DBEntities.deps.json
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/bin/Debug/net8.0/DBEntities.dll
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/bin/Debug/net8.0/DBEntities.pdb
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.GeneratedMSBuildEditorConfig.editorconfig
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.AssemblyInfoInputs.cache
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.AssemblyInfo.cs
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.csproj.CoreCompileInputs.cache
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.sourcelink.json
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.dll
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/refint/DBEntities.dll
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/DBEntities.pdb
+/Users/leonzacharewicz/RiderProjects/preparationfortheTest/DBEntities/obj/Debug/net8.0/ref/DBEntities.dll
